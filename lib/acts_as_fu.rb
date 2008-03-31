@@ -10,7 +10,9 @@ module ActionView::Helpers::UrlHelper
     { :image => 'http://rinsedout.dreamhosters.com/images/krfu.jpg',
       :text => 'I know kung-fu.' },
     { :image => 'http://rinsedout.dreamhosters.com/images/warlock.jpg',
-      :text => 'Rockstar hAx Attack!' }
+      :text => 'Rockstar hAx Attack!' },
+    { :image => 'http://rinsedout.dreamhosters.com/images/monkey.jpg',
+      :text => 'Code Monkey Patch-Fu!' }
   ]
 
   alias_method(:orig_link_to, :link_to) unless method_defined?(:orig_link_to) 
