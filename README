@@ -1,13 +1,32 @@
 ActsAsFu
 ========
 
-Introduction goes here.
+We’ve all seen the job listings. We know what they’re looking for. Rockstars. Code Monkeys. Rails Ninjas.
+
+And you’re left thinking, “But I’m just a programmer.” Well, not anymore. Today, you become a Rails Kung-Fu Master!
+
+“Not me,” you say. “I’ve already tried using all the acts_as_something plugins and all the something_fu plugins; and I’m still not a Rockstar or a Ninja. I’m barely a Code Simian!”
+
+Sounds like you’ve tried the rest – now try the best! That’s right: it’s the new and improved ActsAsFu Rails plugin!
+
+Three Easy Steps to Becoming a Rails Kung-Fu Master:
+
+1. Stop web server
+
+mongrel_rails stop
+
+2. Install Plugin
+
+script/plugin install git://github.com/jlapier/acts_as_fu.git
+
+3. Start web server
+
+mongrel_rails start
+
+(note: if you’re using mongrel_cluster, thin, piston, or anything like that, these instructions don’t apply to you – you figure it out yourself, you Rockstar Ninja!)
+
+Now you’re on your way to programming stardom! Catch ya on fame’s backside, my friend!
 
 
-Example
-=======
 
-Example goes here.
-
-
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Your Mom, released under the MIT license
